@@ -52,9 +52,9 @@ Evaluation metrics:
 
 ## Project Status
 
-🔹 Initial setup complete  
-🔹 Jupyter notebook created  
-🔜 Next step: Load dataset and begin exploratory data analysis (EDA)
+- Initial setup complete  
+- Jupyter notebook created  
+- Next step: Load dataset and begin exploratory data analysis (EDA)
 
 ---
 
